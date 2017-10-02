@@ -78,6 +78,7 @@ Where sometitle is the title of one of your notes.
 
 * [Node.JS](http://nodejs.org) - Platform
 * [Yargs](http://yargs.js.org/) - Parsing command line arguments 
+* [Lodash](https://lodash.com) -  Makes JavaScript easier by taking the hassle out of working with arrays, numbers, objects, strings, etc. 
 
 ## Author
 
