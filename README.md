@@ -1,5 +1,5 @@
 # Notes-Application
-Node.js  application built for creating, removing and listing notes.
+Node.js command line application built for creating, removing and listing notes.
 
 
 ### Prerequisites
